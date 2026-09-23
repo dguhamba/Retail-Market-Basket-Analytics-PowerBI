@@ -65,6 +65,6 @@ The user interface is designed around corporate dashboard best practices:
 ## 🚀 Corporate Consulting & Inquiries
 I specialize in engineering high-performance business intelligence architecture, optimizing complex data models, and upskilling data teams on advanced enterprise design patterns.
 
-*   **Connect on LinkedIn:** [Insert Your LinkedIn Link]
-*   **Corporate Training & Consulting Inquiries:** [Insert your corporate email address]
+*   **Connect on LinkedIn:** [www.linkedin.com/in/guhamba-d-72788619]
+*   **Corporate Training & Consulting Inquiries:** [guhamba.d@gmail.com]
 
